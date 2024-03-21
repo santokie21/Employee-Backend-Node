@@ -8,6 +8,9 @@ logs/
 # Build output
 dist/
 
+#mongo data
+mongodb-data/
+
 # Dependency lock files
 yarn.lock
 
